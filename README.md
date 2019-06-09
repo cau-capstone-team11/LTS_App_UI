@@ -1,2 +1,2 @@
 # LTS_App_UI
-생활 체육 토탈 솔루션 어플리케이션 프론
+Capstone Team 11, Life Sports total solution, Web Server.
