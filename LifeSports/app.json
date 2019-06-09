@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "생활 체육 토탈 솔루션",
+    "slug": "LifeSports",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "width": 130,
+      "height": 266,
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.goldriver.LifeSports",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA0nWEFZlzN4zupghK8m85mEIkkMR0D03U"
+        }
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.goldriver.LifeSports",
+      "config": {
+        "googleMapsApiKey": "AIzaSyA0nWEFZlzN4zupghK8m85mEIkkMR0D03U"
+      },
+      "supportsTablet": true
+    }
+  }
+}
